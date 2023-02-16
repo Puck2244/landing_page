@@ -1,0 +1,123 @@
+*{
+    margin: 2px;;
+    padding: 2px;;
+box-sizing: border-box;
+}
+
+header{
+    background-color: #1f2937;
+}
+ul li{
+    font-size: 18px; 
+    color: #E5E7EB;
+    margin-left: 3rem;
+}
+ul{
+    display: flex;
+    text-align: center;
+    margin-left: 80rem;
+}
+header h4{
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-left: 5rem;
+    margin-top: 3rem;
+}
+header h2{
+    font-size: 48px extra-bold;
+    color: #F9FAF8;
+    margin-left: 35rem;
+    position:absolute;
+    top: 210px;
+}
+header p{
+    color:#F9FAF8;
+    position:absolute;
+    top:240px;
+    margin-left: 35rem;
+}
+button {
+
+    background-color: #3882F6;
+    margin-left: 35rem;
+    position:absolute;
+    top: 260px;
+}
+img{
+    width: 20rem;
+    display: flex;
+    margin-left: 60rem;
+    flex-direction: column;
+}
+.photo_box{
+    width: 160px;
+    height: 160px;
+    background: #3882F6;
+    position: absolute;
+    left: 700px;
+    top: 450px
+}
+.phototwo{
+    width: 160px;
+    height: 160px;
+    background:#3882F6;
+    position: absolute;
+    left:900px;
+    top: 450px;
+
+}
+.photothree{
+    width: 160px;
+    height: 160px;
+    background: #3882F6;
+    position: absolute;
+    left: 1100px;
+    top: 450px;
+}
+.titlesec{
+    position: absolute;
+    left:830px;
+}
+.titleone{
+    position: absolute;
+    left: 680px;
+    top: 620px;
+}
+.titletwo{
+    position: absolute;
+    left:880px;
+    top: 620px;
+}
+.titlethree{
+    position:absolute;
+    left:1080px;
+    top: 620px;
+}
+.strong{
+    position:absolute;
+    top: 800px;
+    left:600px;
+    background-color: #E5E7EB;
+
+}
+.thor{
+    position:absolute;
+    top:900px;
+    left: 600px;
+}
+.call{
+    color: #E5E7EB;
+    position: absolute;
+    top:970px;
+}
+.buy{
+    color: #E5E7EB;
+    position: absolute;
+    top: 980px;
+}
+.buttonfooter{
+    background-color: #3882F6;
+    margin-left: 35rem;
+    position: absolute;
+    top:990px;
+}
